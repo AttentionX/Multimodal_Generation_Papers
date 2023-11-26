@@ -6,10 +6,8 @@ Recommended papers for Introduction to Multimodal Generative Models
 
 | Year | Title | Venue | Paper | Code |
 | --- | --- | --- | --- | --- |
-| 2023 | Multimodal Image Synthesis and Editing:
-The Generative AI Era | TPAMI 2023 | https://arxiv.org/abs/2112.13592 |  |
-| 2023 | Text-to-image Diffusion Models in Generative AI:
-A Survey |  | https://arxiv.org/abs/2303.07909 |  |
+| 2023 | Multimodal Image Synthesis and Editing: The Generative AI Era | TPAMI 2023 | https://arxiv.org/abs/2112.13592 |  |
+| 2023 | Text-to-image Diffusion Models in Generative AI: A Survey |  | https://arxiv.org/abs/2303.07909 |  |
 | 2023 | Vision + Language Applications: A Survey | GCV@CVPR2023 | https://arxiv.org/abs/2305.14598 |  |
 
 ### Diffusion
