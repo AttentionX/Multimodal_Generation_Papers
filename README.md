@@ -47,7 +47,7 @@ Recommended papers for Introduction to Multimodal Generative Models
 | 2021 | StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis | ICLR | https://arxiv.org/abs/2110.08985 | https://github.com/facebookresearch/StyleNeRF |
 | 2022 | 3DMM-RF: Convolutional Radiance Fields for 3D Face Modeling |  | https://arxiv.org/abs/2209.07366 |  |
 | 2021 | MoFaNeRF: Morphable Facial Neural Radiance Field | ECCV | https://arxiv.org/abs/2112.02308 | https://github.com/zhuhao-nju/mofanerf |
-| 2023 | ABLE-NeRF: Attention-Based Rendering with Learnable Embeddings for Neural Radiance Field | IEEE, CVPR | https://arxiv.org/abs/2303.13817 | https://github.com/TangZJ/able-nerf |
+| 2023 | ABLE-NeRF: Attention-Based Rendering with Learnable Embeddings for Neural Radiance Field | CVPR | https://arxiv.org/abs/2303.13817 | https://github.com/TangZJ/able-nerf |
 | 2022 | CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields | CVPR | https://arxiv.org/abs/2112.05139 | https://github.com/cassiePython/CLIPNeRF |
 | 2023 | Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields | ICCV | https://arxiv.org/abs/2306.12760 | https://github.com/orig333/Blended-NeRF |
 | 2023 | 3D-Aware Multi-Class Image-to-Image Translation with NeRFs | CVPR | https://arxiv.org/abs/2303.15012 | https://github.com/sen-mao/3di2i-translation |
