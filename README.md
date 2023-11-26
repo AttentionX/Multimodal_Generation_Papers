@@ -55,8 +55,6 @@ Recommended papers for Introduction to Multimodal Generative Models
 
 ### Text-to-NeRF
 
-### Text-to-NeRF
-
 | Year | Title | Venue | arxiv link | github link |
 | --- | --- | --- | --- | --- |
 | 2022 | Zero-Shot Text-Guided Object Generation with Dream Fields  | CVPR | https://arxiv.org/abs/2112.01455 | https://github.com/ashawkey/dreamfields-torch |
